@@ -11,7 +11,7 @@
 My Socials  
 
    
-[Twitter](https://twitter.com/NHolthey)
+[Twitter]
 
-
+[<img scr="images/iconmonstr-twitter-5.png" width="100">](https://twitter.com/NHolthey) 
 [<img src="images/clipart2312557.png" width= "100">](http://Instagram.com/NHolthey)
