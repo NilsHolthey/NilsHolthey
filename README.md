@@ -4,7 +4,7 @@
 
 # Hello World,
 
-**I'm Nils, 38 years old, creative front-end developer who loves to bring clarity to complex concepts through design. I have a genuine passion for inspiring design and innovative technology, I enjoy solving problems with clean scalable solutions. As a freelancer, I design and build websites...**
+**I'm Nils, 38 years old, creative front-end developer who loves to bring clarity to complex concepts through design. I have a genuine passion for inspiring design and innovative technology, I enjoy solving problems with clean scalable solutions.**
 
 
 ---------
