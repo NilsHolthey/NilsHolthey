@@ -13,7 +13,17 @@
 
 ---------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilsHolthey)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NilsHolthey" />
+</p>
+
+---------
+
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilsHolthey&layout=compact" />
+</p>
+ 
+---------
 
 
 
